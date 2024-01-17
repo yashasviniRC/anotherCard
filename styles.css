@@ -1,0 +1,52 @@
+
+.body{
+font: "Poppins", sans-serif;
+font-size: 1.25rem;
+font-size: .813rem;
+
+}
+
+.cardImg{
+width: 140px;
+height: 270px;
+border-top-left-radius: .2rem;
+border-bottom-left-radius: .2rem;
+}
+ 
+.wrapper{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.wrapper h2{
+    
+    text-align:left;
+    text-decoration:uppercase;
+}
+
+.wrapper h3{
+ 
+    text-align:left;
+    text-decoration:uppercase;
+}
+
+.wrapper h4{
+   
+    text-align:left;
+    text-decoration:uppercase;
+}
+.content{
+    padding: 10px;
+    align-content:center;
+}
+
+.box{
+    display:flex;
+    width: 500px;
+    height: 270px;;
+    margin:20px;
+    overflow:hidden;
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
